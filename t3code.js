@@ -16,4 +16,4 @@ for (let i = 0; i < word.length + 1; i++) {
     letter = word.charAt(numberOfLetter);
   }
 }
-alert(word);
+document.write(word);
